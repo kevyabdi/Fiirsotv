@@ -1,0 +1,3 @@
+# Fiirsotv
+
+Fiirso streaming platform.
